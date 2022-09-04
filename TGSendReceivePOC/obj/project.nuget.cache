@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KEud5R2WxZbzu3Xu83UZ0BTjO+6ACXiq5IwEmBQEBmKi+MxNmRBZBwo7E5J9ll4BYYP59GXDHZoelypujcZs4g==",
+  "success": true,
+  "projectFilePath": "D:\\Others\\POC\\Telegram\\TGSendReceivePOC\\TGSendReceivePOC\\TGSendReceivePOC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\salman\\.nuget\\packages\\wtelegramclient\\2.6.3\\wtelegramclient.2.6.3.nupkg.sha512",
+    "C:\\Users\\salman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
